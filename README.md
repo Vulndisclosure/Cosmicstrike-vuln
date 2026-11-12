@@ -1,6 +1,6 @@
 
 # COSMICSTRIKE
-
+![poc](./IMG_20261112_122759_218.jpg)
 The vulnerability consists of SSTI leading to root RCE on a NASA server, specifically urs.earthdata.nasa.gov
 
 which allows:
